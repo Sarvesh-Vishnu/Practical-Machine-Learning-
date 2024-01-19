@@ -1,4 +1,3 @@
-This project was a part of the Acounting Data Analytics and Visualization course offered by the Illinois University. 
+## Data Analytics & Visualization
 
-Multiplle Regression and Data analysis were performed on an excel workbook and the exploratory analysis and visualizations 
-were performed on tableu. 
+This project constituted a component of the Accounting Data Analytics and Visualization course offered by the University of Illinois. It involved the execution of Multiple Regression and Data Analysis within an Excel workbook, complemented by exploratory analysis and visualizations conducted using Tableau.
