@@ -11,7 +11,7 @@ Project Structure:
 1. Dataset Preparation and Preprocessing: Load and preprocess images from the LFW dataset with data augmentation.
 2. Model Architecture: Fine-tune a ResNet50 model to create unique embeddings for each face.
 3. Embeddings and Matching: Extract feature embeddings and perform face matching using cosine similarity.
-4. Model Evaluation: Use t-SNE for visualization and calculate evaluation metrics.
+4. Model Evaluation: Use t-SNE for visualization and calculate evaluation metrics.    
 """
 
 # Imports
