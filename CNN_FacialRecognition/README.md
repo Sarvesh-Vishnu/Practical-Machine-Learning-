@@ -21,7 +21,7 @@ This project implements a face recognition system using the **Labeled Faces in t
 We use the [Labeled Faces in the Wild (LFW) dataset](https://www.kaggle.com/datasets/jessicali9530/lfw-dataset) for training and testing. The LFW dataset contains over 13,000 labeled images of faces collected from the internet, providing diverse variations in pose, lighting, and expressions.
 
 - **Number of Images**: 13,233
-- **Classes**: Each class corresponds to an individual
+- **Classes**: Each class corresponds to an individual 
 
 ## Requirements
 
